@@ -27,7 +27,7 @@ jobs:
     - name: Run preprocessing script
       run: |
         cd preprocessing
-        python automate_NamaKamu.py # JANGAN LUPA: sesuaikan nama file ini!
+        python automate_Arif.py # JANGAN LUPA: sesuaikan nama file ini!
 
     - name: Commit and push changes
       run: |
